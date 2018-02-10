@@ -1,2 +1,6 @@
 "Ahora yo trabajo sobre Git para mantener seguro mi c•digo fuente, tunak tunak tun"  
+<<<<<<< HEAD
 Estoy metiendo una línea
+=======
+una linea
+>>>>>>> 91289f510633f6224f40205bdf0775a30a504ef1
